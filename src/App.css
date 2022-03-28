@@ -1,0 +1,15 @@
+
+body{
+  background-color: #FFE6C4;
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.App{
+  background-color: #F125A4;
+  width: 30rem;
+  margin: 0 auto;
+  text-align: center;
+}
